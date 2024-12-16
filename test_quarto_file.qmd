@@ -1,0 +1,124 @@
+---
+title: "Test_quarto_document"
+format: html
+---
+
+## 
+
+\<!DOCTYPE html\>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+
+<meta charset="utf-8">
+
+<meta name="generator" content="quarto-1.4.554">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="UK Data Service">
+
+<title>Basic population estimates with British Social Attitudes Survey data using SPSS</title>
+
+```{=html}
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+```
+
+```{=html}
+<script src="Pop_estimates_using_the_BSAS_and_SPSS_files/libs/clipboard/clipboard.min.js"></script>
+```
+
+```{=html}
+<script src="Pop_estimates_using_the_BSAS_and_SPSS_files/libs/quarto-html/quarto.js"></script>
+```
+
+```{=html}
+<script src="Pop_estimates_using_the_BSAS_and_SPSS_files/libs/quarto-html/popper.min.js"></script>
+```
+
+```{=html}
+<script src="Pop_estimates_using_the_BSAS_and_SPSS_files/libs/quarto-html/tippy.umd.min.js"></script>
+```
+
+```{=html}
+<script src="Pop_estimates_using_the_BSAS_and_SPSS_files/libs/quarto-html/anchor.min.js"></script>
+```
+
+<link href="Pop_estimates_using_the_BSAS_and_SPSS_files/libs/quarto-html/tippy.css" rel="stylesheet"> <link href="Pop_estimates_using_the_BSAS_and_SPSS_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+
+```{=html}
+<script src="Pop_estimates_using_the_BSAS_and_SPSS_files/libs/bootstrap/bootstrap.min.js"></script>
+```
+
+<link href="Pop_estimates_using_the_BSAS_and_SPSS_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet"> <link href="Pop_estimates_using_the_BSAS_and_SPSS_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+
+```{=html}
+<style>html{ scroll-behavior: smooth; }</style>
+```
+
+```{=html}
+<style>
+
+      .quarto-title-block .quarto-title-banner h1,
+      .quarto-title-block .quarto-title-banner h2,
+      .quarto-title-block .quarto-title-banner h3,
+      .quarto-title-block .quarto-title-banner h4,
+      .quarto-title-block .quarto-title-banner h5,
+      .quarto-title-block .quarto-title-banner h6
+      {
+        color: #742082;
+      }
+
+      .quarto-title-block .quarto-title-banner {
+        color: #742082;
+background: white;
+      }
+</style>
+```
+
+<link rel="stylesheet" href="ukds.css">
+
+</head>
+
+<body>
+
+<header id="title-block-header" class="quarto-title-block default toc-left page-columns page-full">
+
+::: {.quarto-title-banner .page-columns .page-full}
+```         
+<div class="quarto-title column-body">
+  <h1 class="title">Basic population estimates with British Social Attitudes Survey data using SPSS</h1>
+                  </div>
+```
+:::
+
+::: quarto-title-meta
+```         
+  <div>
+  <div class="quarto-title-meta-heading">Author</div>
+  <div class="quarto-title-meta-contents">
+           <p>UK Data Service </p>
+        </div>
+</div>
+  
+  <div>
+  <div class="quarto-title-meta-heading">Published</div>
+  <div class="quarto-title-meta-contents">
+    <p class="date">June 2024</p>
+  </div>
+</div>
+```
+:::
